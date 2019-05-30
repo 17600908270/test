@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d88f61cc-3482-49b4-be8e-427b399f7ca8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/read.text" beforeDir="false" afterPath="$PROJECT_DIR$/read.text" afterDir="false" />
-    </list>
+    <list default="true" id="d88f61cc-3482-49b4-be8e-427b399f7ca8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559184817336</updated>
-      <workItem from="1559184819204" duration="906000" />
+      <workItem from="1559184819204" duration="1233000" />
     </task>
     <task id="LOCAL-00001" summary="提交ddd">
       <created>1559184868656</created>
@@ -119,28 +117,34 @@
       <option name="project" value="LOCAL" />
       <updated>1559185569626</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge branch 'master' of https://github.com/17600908270/test&#10;&#10;# Conflicts:&#10;#&#9;read.text">
+      <created>1559185755798</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559185755798</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="906000" />
+    <option name="totallyTimeSpent" value="1233000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" sideWeight="0.49924356" visible="true" weight="0.52786887" />
+      <window_info active="true" anchor="bottom" id="Version Control" sideWeight="0.49167928" visible="true" weight="0.52786887" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50075644" side_tool="true" visible="true" weight="0.52786887" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50832075" side_tool="true" visible="true" weight="0.52786887" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -162,10 +166,21 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交ddd" />
     <MESSAGE value="提交mmm" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交mmm" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/17600908270/test&#10;&#10;# Conflicts:&#10;#&#9;read.text" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/17600908270/test&#10;&#10;# Conflicts:&#10;#&#9;read.text" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/read.text">
